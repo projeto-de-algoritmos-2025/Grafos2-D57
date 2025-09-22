@@ -35,7 +35,7 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 
 ### Exercício 04 - Difícil
 [Problem 266 - Queue at the School](https://codeforces.com/problemset/problem/266/B)
-![Ac 226](./exercicio_4/266B.cpp)
+![Ac 226](./exercicio_4/266B.png)
 
 ## Vídeo de apresentação do Trabalho 2
 [Vídeo](https://www.youtube.com)
