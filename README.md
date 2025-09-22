@@ -38,7 +38,7 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 ![Ac 226](./exercicio_4/266B.png)
 
 ## Vídeo de apresentação do Trabalho 2
-[Vídeo](https://www.youtube.com)
+[Vídeo](https://youtu.be/7XyQ1Yq7KC8)
 
 
 ### Links
