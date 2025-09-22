@@ -23,21 +23,19 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 
 ### Exercício 01 - Médio 
 [Problem 441 - Valera and Tubes](https://codeforces.com/problemset/problem/441/C)
-
-Luis
+![Ac 441](./exercicio_1/441C.png)
 
 ### Exercício 02 - Difícil
 [Problem 445 - DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A)
-
-Luis
+![Ac 445](./exercicio_2/445A.png)
 
 ### Exercício 03 - Difícil
 [Problem 277 - Learning Languages](https://codeforces.com/problemset/problem/277/A)
-Bruno
+![Ac 277](./exercicio_3/277A.png)
 
 ### Exercício 04 - Difícil
 [Problem 266 - Queue at the School](https://codeforces.com/problemset/problem/266/B)
-Bruno
+![Ac 226](./exercicio_4/266B.cpp)
 
 ## Vídeo de apresentação do Trabalho 2
 [Vídeo](https://www.youtube.com)
